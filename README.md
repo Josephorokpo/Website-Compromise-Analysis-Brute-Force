@@ -6,7 +6,7 @@ This project documents the investigation of a cybersecurity incident affecting y
 
 ## **Methodology and Analysis**
 
-The investigation began after multiple customer complaints about unusual website behavior and slow computers. The issue was replicated in a sandbox environment, observing the download prompt and subsequent redirection. Network traffic was captured using tcpdump to analyze the communication flow.
+The investigation began after multiple customer complaints about unusual website behavior and slow computers. The issue was replicated in a sandbox environment by the cybersecurity analyst, observing the download prompt and subsequent redirection. Network traffic was captured using tcpdump to analyze the communication flow.
 
 My methodology involved:
 
