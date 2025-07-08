@@ -8,7 +8,7 @@ This project documents the investigation of a cybersecurity incident affecting y
 
 The investigation began after multiple customer complaints about unusual website behavior and slow computers. The issue was replicated in a sandbox environment by the cybersecurity analyst, observing the download prompt and subsequent redirection. Network traffic was captured using tcpdump to analyze the communication flow.
 
-My methodology involved:
+Methodology involved:
 
 1. **Incident Replication & Observation:** Confirming the reported symptoms and behavior in a controlled sandbox.  
 2. **Network Traffic Analysis:** Examining the tcpdump log to trace the communication path, identify involved protocols (DNS, HTTP), and pinpoint the redirection mechanism.  
